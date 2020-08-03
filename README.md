@@ -1,5 +1,5 @@
 # JavaScript
-En este repositorio voy a repasar los fundamentos de JavaScript con resúmenes teóricos en formato markdown y ejercicios
+En este repositorio voy a repasar los fundamentos de JavaScript con resúmenes teóricos en formato markdown y ejercicios.
 
 Los archivos markdown que se encuentran en él son principalmente resúmenes de la teoría aprendida en el [Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS de Victor Robles disponible en Udemy](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/).
 
