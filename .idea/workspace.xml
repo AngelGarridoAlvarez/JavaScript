@@ -46,7 +46,7 @@
       <change afterPath="$PROJECT_DIR$/masterJs/03-tiposDatos/tiposDatos.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/masterJs/03-tiposDatos/tiposDatos.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/condicionales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/condicionales.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/ifElseSwitch.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/switch.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/masterJs/conceptosGenerales.md" afterDir="false" />
     </list>
@@ -101,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596465096831</updated>
       <workItem from="1596465097884" duration="5631000" />
-      <workItem from="1596525299235" duration="10347000" />
+      <workItem from="1596525299235" duration="11875000" />
     </task>
     <servers />
   </component>
