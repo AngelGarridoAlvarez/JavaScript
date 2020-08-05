@@ -1,6 +1,6 @@
 //Mostrar todos los números impares que estén entre dos números, incluidos ambos números
 
-'use strict';
+'use strict'
 
 let num1 = parseInt(prompt(`Introduce el número dónde quieres empezar a contar`, `0`));
 let num2 = parseInt(prompt(`introduce el número dónde quieres que pare de contar`, `0`));
