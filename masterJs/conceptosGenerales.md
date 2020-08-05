@@ -1,6 +1,6 @@
-#CONCEPTOS GENERALES
+# CONCEPTOS GENERALES
 
-##ECMASCRIPT
+## ECMASCRIPT
 ECMAScript es una especificación de lenguaje de programación publicada por ECMA International. El desarrollo empezó en 1996 y estuvo basado en el popular lenguaje JavaScript propuesto como estándar por Netscape Communications Corporation. Actualmente está aceptado como el estándar ISO/IEC 22275:2018.
 
 ECMAScript define un lenguaje de tipos dinámicos ligeramente inspirado en Java y otros lenguajes del estilo de C. Soporta algunas características de la programación orientada a objetos mediante objetos basados en prototipos y pseudoclases.
@@ -11,12 +11,12 @@ ActionScript, para Adobe Flash, también está basado en el estándar ECMAScript
 
 Desde el lanzamiento en junio de 1997 del estándar ECMAScript 1, han existido las versiones 2, 3 y 5, que es la más usada actualmente (la 4 se abandonó2​). En junio de 2015 se cerró y publicó la versión ECMAScript 6.3​
 
-##ECMA:
+## ECMA:
 Ecma International es una organización internacional basada en membresías de estándares para la comunicación y la información. Adquirió el nombre Ecma International en 1994, cuando la European Computer Manufacturers Association (ECMA) cambió su nombre para expresar su alcance internacional. Como consecuencia de esta decisión, el nombre ya no se considera un acrónimo y no se escribe completamente en mayúsculas.
 
 La organización fue fundada en 1961 para estandarizar los sistemas informatizados en Europa. La membresía está abierta a las empresas que producen, comercializan o desarrollan sistemas informáticos o de comunicación en Europa.
 
-##Diferencia entre == y ===
+## Diferencia entre == y ===
 
 * Ambos son <u>**comparasion operators**</u>
 
