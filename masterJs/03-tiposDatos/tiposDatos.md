@@ -1,4 +1,4 @@
-##Convertir de un dato a otro
+## Convertir de un dato a otro
 
 ```jsx
 var falseNumber = "44.33"; //no es un número, es un string
