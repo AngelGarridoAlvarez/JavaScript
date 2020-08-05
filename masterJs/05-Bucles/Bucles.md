@@ -1,7 +1,7 @@
-#Bucles
+# Bucles
 Estructura de control(trozo de código) que se repite un número definido de veces.
 
-##Bucle for
+## Bucle for
 
 Si quiero mostrar todos los números del 1 al 100 en la pantalla:
 ```jsx
@@ -16,12 +16,12 @@ document.write(`<p>vamos por el número ${i}</p>`);
 
 };
 ```
-##Debugger
+## Debugger
 Poniendo la expresión "debugger" vamos a poder debugear a través del navegador viendo todos que parte del bucle se ejecuta en cada momento:
 
 ![img](img/debugger.png)
 
-##Bucle while
+## Bucle while
 
 Comprueba una condición y luego ejecuta un bloque de código:
 
@@ -36,7 +36,7 @@ while(year <= 2051){
 ```
 Nos devolverá todos los años desde 2020 a 2051
 
-##Bucle do while
+## Bucle do while
 Primero ejecuta el bloque de código y luego comprueba la condición para volver a ejecutar ese bloque de código o parar (al revés que en el while).
 
 ```jsx
@@ -51,7 +51,7 @@ do{
 //ejecuta ese alert/console.log hasta que years sea mayor o igual que 25
 ```
 
-##Break
+## Break
 Corta la ejecución del bulce:
 El break dentro de un bucle nos permite salir de la estructura de control y dejr de ejecutar bucle para que no se hagan más iteraciones
 
