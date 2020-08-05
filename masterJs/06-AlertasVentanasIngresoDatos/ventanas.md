@@ -1,10 +1,10 @@
-#Ventanas emergentes
+# Ventanas emergentes
 
-##ALERTA
+## ALERTA
 ```jsx
 alert("Esto es un alert introducido en código JavaScript");
 ```
-##CONFIRMACIÓN
+## CONFIRMACIÓN
 Se ejecutan con confirm, en este caso metemos el resultado dentro de una variable para poder ver la respuesta elegida y la mostramos por pantalla con document.write
 
 ```jsx
