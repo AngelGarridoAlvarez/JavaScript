@@ -1,0 +1,1 @@
+En esta carpeta se encuentran los archivos que me hice cuándo empecé a estudiar el bootcamp de fullstack developer, dentro de la carpeta apuntesPdf puedes encontrar... a ver si lo adivinas.

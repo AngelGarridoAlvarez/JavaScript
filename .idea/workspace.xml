@@ -20,23 +20,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f10ef6e-777a-4fe1-b6a7-3bc0a9893479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/6-ParImpar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/6-ParImpar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/7-tablaMultiplicar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/7-tablaMultiplicar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/8-calculadora.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/8-calculadora.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/1-objetos y ámbito del this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/10-recorrerDOM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/10-recorrerDOM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/11-Json .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/12-Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/2-clases.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/3-contextoCallBindApply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/4-arrowFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/5 -ifElseSwitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/6-ternario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/7-buclesFor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/8-timeoutIntervalos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/9-DOMeventos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/9-DOMeventos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/ternario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/funcionesMetodos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/1CompararNumeros.html" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/1-CompararNumeros.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/1CompararNumeros.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/1-CompararNumeros.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/2sumaConBucles.html" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/2-sumaConBucles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/2sumaConBucles.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/2-sumaConBucles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/3numerosEntre2NumerosBucle.html" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/3-numerosEntre2NumerosBucle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/3numerosEntre2NumerosBucle.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/3-numerosEntre2NumerosBucle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/4imparesEntre2num.html" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/4-imparesEntre2num.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/4imparesEntre2num.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/4-imparesEntre2num.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/5divisoresDeUnNumero.html" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/5-divisoresDeUnNumero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/5divisoresDeUnNumero.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/07-EjerciciosDe01a06/5-divisoresDeUnNumero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/JS_Intro__Ejercicios.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/JS_Intro__Ejercicios.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S1__Datos_-_Objetos_-_POO.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/objetosClasesHerencia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S1__Datos_-_Objetos_-_POO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S1__Datos_-_Objetos_-_POO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S2__Scope_-_Clousures_-_Context_-_Hoisting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S2__Scope_-_Clousures_-_Context_-_Hoisting.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S2__Scope_-_Clousures_-_Context_-_Hoisting.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S3__Condicionales_-_Bucles.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S3__Condicionales_-_Bucles.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S4__DOM_-_Eventos_-_Json.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S4__DOM_-_Eventos_-_Json.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S5__Arrays_en_ES6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S5__Arrays_en_ES6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S6__Manejando_la_asincrona.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S6__Manejando_la_asincrona.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S7__Peticiones.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S7__Peticiones.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S8__Tratamiento_de_errores_y_destructuring.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S8__Tratamiento_de_errores_y_destructuring.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S_Intro__Review.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/Javascript_S_Intro__Review.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S_Intro__Review.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/bucles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/classVehiculo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/closure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/condicionales.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/condicionales.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/condicionales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/ifElseSwitch.md" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/ifElseSwitchTernario.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-Condicionales-Switch/switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/switch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +70,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -70,16 +91,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/masterJs/02-Variables" />
-      <recent name="$PROJECT_DIR$/masterJs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/masterJs/05-Bucles/img" />
       <recent name="$PROJECT_DIR$/masterJs/04-Condicionales-Switch" />
       <recent name="$PROJECT_DIR$/masterJs" />
       <recent name="$PROJECT_DIR$/masterJs/01-HelloWorld" />
       <recent name="$PROJECT_DIR$/bootcamp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bootcamp" />
+      <recent name="$PROJECT_DIR$/bootcamp/apuntesPdf" />
+      <recent name="$PROJECT_DIR$/masterJs/02-Variables" />
+      <recent name="$PROJECT_DIR$/masterJs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,7 +115,7 @@
       <updated>1596465096831</updated>
       <workItem from="1596465097884" duration="5631000" />
       <workItem from="1596525299235" duration="15042000" />
-      <workItem from="1596613400651" duration="26974000" />
+      <workItem from="1596613400651" duration="30359000" />
     </task>
     <servers />
   </component>

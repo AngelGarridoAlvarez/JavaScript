@@ -59,3 +59,18 @@ switch(edad) {
 
 console.log(imprime);
 ```
+## Operador condicional Ternario
+
+Lo utilizamos cuando hay dos posibilidades que dependen de una condición.
+
+#### Expresión:
+condición ? expr1 (valor que regresa condición = true): expr2 (valor que regresa condición = false);
+
+```jsx
+let score = 5;
+let exam = (score >= 5 ? 'aprobado' : 'suspenso');
+let humour = (exam == "aprobado" ? "feliz" : "triste");
+
+console.log(exam); //aprobado
+console.log(humour); //feliz
+```
