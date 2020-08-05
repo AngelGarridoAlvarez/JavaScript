@@ -1,4 +1,4 @@
-##if else - else if else
+## if else - else if else
 ```jsx
 'use strict'
 
@@ -31,7 +31,7 @@ if (year != 2020) {
 }
 ```
 
-##Switch
+## Switch
 ```jsx
 'use strict'
 
