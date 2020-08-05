@@ -1,6 +1,6 @@
-##En un archivo HTML podemos introducir código JavaScript de dos formas:
+## En un archivo HTML podemos introducir código JavaScript de dos formas:
 
-###1. Dentro del propio código html
+### 1. Dentro del propio código html
 
 ```xhtml
 <!DOCTYPE html>
@@ -18,7 +18,7 @@
 </html>
 ```
 
-###2. Con un archivo externo JavaScript
+### 2. Con un archivo externo JavaScript
 
 index.html:
 ```xhtml
@@ -39,7 +39,7 @@ alert("Hola Mundo con JS");
 alert("Comienza el máster");
 ```
 
-##document.write - escribir desde un fichero JavaScript en el documento HTML:
+## document.write - escribir desde un fichero JavaScript en el documento HTML:
 condicionales.js:
 ```jsx
 document.write("<h2>Hello-World desde el fichero externo</h2>")
