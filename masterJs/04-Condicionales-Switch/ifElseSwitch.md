@@ -11,7 +11,7 @@ var edad2 =42;
 if (edad1>edad2){
     console.log(edad1 + " es mayor que " + edad2);
 
-} else if(edad2>edad1)https://www.slumicams.com/webcam/julia-berlin
+} else if(edad2>edad1)
     console.log(edad2 + " es mayor que " + edad1);
 
 else {
