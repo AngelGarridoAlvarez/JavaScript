@@ -28,7 +28,7 @@ let funcion1 = ejemploFuncion(1,2)
 funcion1; //invocamos a la función a través de la variable asignada
 ```
 * No podemos modificar los parámetros de una función asignada a una variable si estamos llamando directamente a la variable.
-* Esto se puede hacer si es una [función anónima](#funcin-annima) asignada a una variable.
+* Esto se puede hacer si es una [función anónima](#función-anónima) asignada a una variable.
 
 ```jsx
 
