@@ -15,7 +15,7 @@ console.log(ejemploFuncion());
 
 let funcion1 = ejemploFuncion(1,2) //se pueden asignar las funciones a variables
 
-//fucion1(1,2) TypeError: funcion1 is not a function --> no podemos modificar los parámetros de una función asignada a una variable si estamos llamando directamente a la variable.
+//funcion1(1,2) TypeError: funcion1 is not a function --> no podemos modificar los parámetros de una función asignada a una variable si estamos llamando directamente a la variable, esto se podría hacer con funciones anónimas.
 
 funcion1; //invocamos a la función a través de la variable asignada
 

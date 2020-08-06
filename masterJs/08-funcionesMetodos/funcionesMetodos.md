@@ -27,7 +27,8 @@ let funcion1 = ejemploFuncion(1,2)
 
 funcion1; //invocamos a la función a través de la variable asignada
 ```
-Pero no podemos modificar los parámetros de una función asignada a una variable si estamos llamando directamente a la variable.
+* No podemos modificar los parámetros de una función asignada a una variable si estamos llamando directamente a la variable.
+* Esto se puede hacer si es una [función anónima](#funcin-annima) asignada a una variable.
 
 ```jsx
 
@@ -152,5 +153,13 @@ nums(arrayNums);
 nums(...arrayNums);
 // Número1: 6
 // Número2: 7
+
+```
+
+## Función Anónima
+<a name="funcionAnonima"></a>
+Es una función que no tiene nombre, se suelen emplear mucho con los callbacks (funciones dentro de otras funciones).
+
+```jsx
 
 ```
