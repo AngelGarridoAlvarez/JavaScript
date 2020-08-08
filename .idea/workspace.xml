@@ -21,10 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f10ef6e-777a-4fe1-b6a7-3bc0a9893479" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/1-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/1-funciones.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/4-funAnonimasCallbacks.js" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/4-funAnonimas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/funcionesMetodos.md" beforeDir="false" afterPath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/funcionesMetodos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -83,7 +80,8 @@
       <workItem from="1596465097884" duration="5631000" />
       <workItem from="1596525299235" duration="15042000" />
       <workItem from="1596613400651" duration="30359000" />
-      <workItem from="1596699677748" duration="13767000" />
+      <workItem from="1596699677748" duration="23027000" />
+      <workItem from="1596788530966" duration="15304000" />
     </task>
     <servers />
   </component>
@@ -103,10 +101,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2215" y="325" width="558" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596631401890">
+    <state x="2215" y="310" width="565" height="430" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596812322957">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
-    <state x="2215" y="325" width="558" height="402" key="#com.intellij.fileTypes.FileTypeChooser/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1596631401890" />
+    <state x="2215" y="310" width="565" height="430" key="#com.intellij.fileTypes.FileTypeChooser/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1596812322957" />
     <state x="2390" y="231" width="424" height="496" key="FileChooserDialogImpl" timestamp="1596613991940">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
