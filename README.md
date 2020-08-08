@@ -6,6 +6,8 @@ Los archivos markdown que se encuentran en él son principalmente resúmenes de 
 Todo el contenido ha sido modificado para facilitar su comprensión, en muchos casos la información se ha ampliado con otras fuentes como W3Schools, CodeCademy, Wikipedia.
 
 ## Indice
+
+###Repaso Fundamentos JavaScript
 [1. Hello World](/01-HelloWorld/1helloWorld.md)
 [- files](/01-HelloWorld)
 
