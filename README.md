@@ -26,7 +26,7 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 
 [7. Ejercicios Básicos](/07-EjerciciosBasicos)
 
-[8. Funciones, funciones anónimas, función arrow, ámbito](/08-funcionesMetodos/funcionesAmbitoArrow.md)
+[8. Funciones: funciones anónimas, función arrow, ámbito](/08-funcionesMetodos/funcionesAmbitoArrow.md)
 [- files](/08-funcionesMetodos)
 
 [9. Métodos](/09-metodos/metodos.md)
