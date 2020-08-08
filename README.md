@@ -7,7 +7,7 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 
 ## Indice
 
-###Repaso Fundamentos JavaScript
+### Repaso Fundamentos JavaScript
 [1. Hello World](/01-HelloWorld/1helloWorld.md)
 [- files](/01-HelloWorld)
 
