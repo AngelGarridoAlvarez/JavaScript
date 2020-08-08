@@ -22,3 +22,4 @@ La organización fue fundada en 1961 para estandarizar los sistemas informatizad
 
 * == compara si dos operadores son iguales sin tener en cuenta su tipado.
 * === compara si dos operadores son iguales teniendo en cuenta el tipado.
+
