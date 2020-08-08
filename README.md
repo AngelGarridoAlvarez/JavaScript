@@ -18,7 +18,7 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 [4. Condicionales: if else, switch, ternario](/04-CondicionalesSwitchTernario/ifElseSwitchTernario.md)
 [- files](/04-CondicionalesSwitchTernario)
 
-[5. Bucles](/05-Bucles/Bucles.md)
+[5. Bucles, utilizar debugger](/05-Bucles/Bucles.md)
 [- files](/05-Bucles)
 
 [6. Alertas, ventanas, ingreso de datos](/06-AlertasVentanasIngresoDatos/ventanas.md)
