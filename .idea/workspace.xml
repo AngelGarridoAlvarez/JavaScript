@@ -22,6 +22,56 @@
     <list default="true" id="3f10ef6e-777a-4fe1-b6a7-3bc0a9893479" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/01-HelloWorld/1helloWorld.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-HelloWorld/1helloWorld.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/01-HelloWorld/helloWorld.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-HelloWorld/helloWorld.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/01-HelloWorld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-HelloWorld/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/02-Variables/2.variables_modo_estricto.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-Variables/2.variables_modo_estricto.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/02-Variables/letVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Variables/letVar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/02-Variables/variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Variables/variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/03-tiposDatos/tiposDatos.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-tiposDatos/tiposDatos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/03-tiposDatos/tiposDatos.md" beforeDir="false" afterPath="$PROJECT_DIR$/03-tiposDatos/tiposDatos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/condicionales.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-CondicionalesSwitchTernario/condicionales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/ifElseSwitchTernario.md" beforeDir="false" afterPath="$PROJECT_DIR$/04-CondicionalesSwitchTernario/ifElseSwitchTernario.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-CondicionalesSwitchTernario/switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/04-CondicionalesSwitchTernario/ternario.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-CondicionalesSwitchTernario/ternario.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/Bucles.md" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/Bucles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/bucleDoWhile.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bucleDoWhile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/bucleDoWhile.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bucleDoWhile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/bucleFor.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bucleFor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/bucleFor.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bucleFor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/bucleWhile.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bucleWhile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/05-Bucles/img/debugger.png" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/img/debugger.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/06-AlertasVentanasIngresoDatos/ventanas.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/ventanas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/06-AlertasVentanasIngresoDatos/ventanas.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/ventanas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/06-AlertasVentanasIngresoDatos/ventanas.md" beforeDir="false" afterPath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/ventanas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/1-CompararNumeros.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/1-CompararNumeros.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/1-CompararNumeros.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/1-CompararNumeros.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/2-sumaConBucles.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/2-sumaConBucles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/2-sumaConBucles.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/2-sumaConBucles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/3-numerosEntre2NumerosBucle.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/3-numerosEntre2NumerosBucle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/3-numerosEntre2NumerosBucle.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/3-numerosEntre2NumerosBucle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/4-imparesEntre2num.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/4-imparesEntre2num.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/4-imparesEntre2num.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/4-imparesEntre2num.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/5-divisoresDeUnNumero.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/5-divisoresDeUnNumero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/5-divisoresDeUnNumero.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/5-divisoresDeUnNumero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/6-ParImpar.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/6-ParImpar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/6-ParImpar.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/6-ParImpar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/7-tablaMultiplicar.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/7-tablaMultiplicar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/7-tablaMultiplicar.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/7-tablaMultiplicar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/8-calculadora.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/8-calculadora.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/07-EjerciciosBasicos/8-calculadora.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-EjerciciosBasicos/8-calculadora.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/1-funciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/1-funciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/1-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/1-funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/2-funcionesDentroFunciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/2-funcionesDentroFunciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/2-funcionesDentroFunciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/2-funcionesDentroFunciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/3-parametrosRestSpread.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/3-parametrosRestSpread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/4-funAnonimasCallback.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/4-funAnonimasCallback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/5-funcionFlecha.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/5-funcionFlecha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/6-ambito.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/6-ambito.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/7-metodos.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-metodos/1-metodos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/funcionesAmbitoArrow.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-funcionesMetodos/funcionesAmbitoArrow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/08-funcionesMetodos/metodos.md" beforeDir="false" afterPath="$PROJECT_DIR$/09-metodos/metodos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masterJs/conceptosGenerales.md" beforeDir="false" afterPath="$PROJECT_DIR$/conceptosGenerales.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +105,19 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/09-metodos" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bootcamp" />
+      <recent name="$PROJECT_DIR$/bootcamp/apuntesPdf" />
+      <recent name="$PROJECT_DIR$/masterJs/02-Variables" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/masterJs/05-Bucles/img" />
       <recent name="$PROJECT_DIR$/masterJs/04-Condicionales-Switch" />
       <recent name="$PROJECT_DIR$/masterJs" />
       <recent name="$PROJECT_DIR$/masterJs/01-HelloWorld" />
       <recent name="$PROJECT_DIR$/bootcamp" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bootcamp" />
-      <recent name="$PROJECT_DIR$/bootcamp/apuntesPdf" />
-      <recent name="$PROJECT_DIR$/masterJs/02-Variables" />
-      <recent name="$PROJECT_DIR$/masterJs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +132,7 @@
       <workItem from="1596525299235" duration="15042000" />
       <workItem from="1596613400651" duration="30359000" />
       <workItem from="1596699677748" duration="23027000" />
-      <workItem from="1596788530966" duration="15304000" />
+      <workItem from="1596788530966" duration="16984000" />
     </task>
     <servers />
   </component>
