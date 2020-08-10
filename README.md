@@ -35,7 +35,7 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 [- files](/09-metodos)
 
 
-.toString()
+* .toString()
 typeof
 .toUpperCase()
 .toLowerCase()
