@@ -50,6 +50,4 @@ typeof
 .split()
 .trim()
 
-* [Plantillas](09-metodos/2-plantillas.html)
-
 [- files](/09-metodos)
