@@ -136,7 +136,7 @@ for (let elemento in escritorio){
 
 ```
 
-##3. Arrays multi-dimensionales
+## 3. Arrays multi-dimensionales
 
 * Son arrays dentro de otros arrays
 
@@ -152,7 +152,7 @@ console.log(cine[0][0], "-", cine[1][0]);//Terminator - Acción
 console.log(cine[0][1], "-",cine[1][1]);//Poltergeist - Terror
 console.log(cine[0][2], "-",cine[1][2]);//La vida es bella - Drama
 ```
-## Operaciones y métodos con arrays
+## 4. Operaciones y métodos con arrays
 ```jsx
 'use strict'
 
