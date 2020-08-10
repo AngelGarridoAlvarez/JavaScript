@@ -3,7 +3,7 @@
 Propiedades y funciones que tiene JavaScript por defecto y que tienen diversas utilidades:
 
 
-##Transformación de textos
+## Transformación de textos
 
 Definimos las siguientes variables para ejemplificar los métodos:
 
@@ -59,7 +59,7 @@ dato = texto1.concat(texto2 + " " + num); //útil para usar con bucles
 console.log(dato);
 ```
 
-##Métodos para hacer búsquedas dentro de un string:
+## Métodos para hacer búsquedas dentro de un string:
 
 **indexOf**
  * nos dice el carácter donde empieza la palabra
