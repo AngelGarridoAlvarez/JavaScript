@@ -32,6 +32,7 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 [- files](/08-funciones)
 
 [9. Métodos](/09-metodos/metodos.md)
+[- files](/09-metodos)
 .toString()
 typeof
 .toUpperCase()
@@ -50,4 +51,4 @@ typeof
 .split()
 .trim()
 
-[- files](/09-metodos)
+
