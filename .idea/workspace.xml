@@ -20,12 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f10ef6e-777a-4fe1-b6a7-3bc0a9893479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/2-plantillas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Bucles/0-repasoGeneralBucles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/1-arraysBasico.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/1-arraysBasico.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/2-forEach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/2-forEach.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/3-arraysMultidimensionales.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/4-operacionesMetodosArrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/5-forIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/ejercicioJuegaConElDom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/ejercicioJuegaConElDom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Arrays/img/3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/ventanas.md" beforeDir="false" afterPath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/ventanas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-metodos/2-plantillas.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-AlertasVentanasIngresoDatos/2-plantillas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-metodos/2-plantillas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/1-funciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/1-funciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/1-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/1-funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/2-funcionesDentroFunciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/2-funcionesDentroFunciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/2-funcionesDentroFunciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/2-funcionesDentroFunciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/3-parametrosRestSpread.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/3-parametrosRestSpread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/4-funAnonimasCallback.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/4-funAnonimasCallback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/5-funcionFlecha.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/5-funcionFlecha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/6-ambito.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/6-ambito.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/7-funcionesReemplazo.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/7-funcionesReemplazo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funciones/funcionesAmbitoArrow.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/funcionesAmbitoArrow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-metodos/1-metodos.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-Metodos/1-metodos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-metodos/metodos.md" beforeDir="false" afterPath="$PROJECT_DIR$/09-Metodos/metodos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootcamp/12-Arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootcamp/12-Arrays.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +78,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodeJS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10-Arrays/img" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -67,11 +90,11 @@
       <recent name="$PROJECT_DIR$/bootcamp/apuntesPdf" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10-Arrays/img" />
+      <recent name="$PROJECT_DIR$/05-Bucles" />
       <recent name="$PROJECT_DIR$/masterJs/05-Bucles/img" />
       <recent name="$PROJECT_DIR$/masterJs/04-Condicionales-Switch" />
       <recent name="$PROJECT_DIR$/masterJs" />
-      <recent name="$PROJECT_DIR$/masterJs/01-HelloWorld" />
-      <recent name="$PROJECT_DIR$/bootcamp" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,7 +109,7 @@
       <workItem from="1596525299235" duration="15042000" />
       <workItem from="1596613400651" duration="30359000" />
       <workItem from="1596699677748" duration="23027000" />
-      <workItem from="1596788530966" duration="22975000" />
+      <workItem from="1596788530966" duration="42628000" />
     </task>
     <servers />
   </component>
@@ -106,10 +129,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2215" y="310" width="565" height="430" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596812322957">
+    <state x="2215" y="295" width="698" height="430" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597067187905">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
-    <state x="2215" y="310" width="565" height="430" key="#com.intellij.fileTypes.FileTypeChooser/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1596812322957" />
+    <state x="2215" y="295" width="698" height="430" key="#com.intellij.fileTypes.FileTypeChooser/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1597067187905" />
     <state x="2390" y="226" width="424" height="496" key="FileChooserDialogImpl" timestamp="1597041810144">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
@@ -118,6 +141,14 @@
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
     <state x="2082" y="266" width="824" height="520" key="IDE.errors.dialog/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1596554044766" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1597065575681">
+      <screen x="1536" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1597065575681" />
+    <state x="2160" y="232" key="run.anything.popup" timestamp="1597056342728">
+      <screen x="1536" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2160" y="232" key="run.anything.popup/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1597056342728" />
     <state x="2159" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1596575441679">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>

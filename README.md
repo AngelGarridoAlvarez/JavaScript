@@ -28,11 +28,11 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 
 [7. Ejercicios Básicos](/07-EjerciciosBasicos)
 
-[8. Funciones: funciones anónimas, función arrow, ámbito](/08-funciones/funcionesAmbitoArrow.md)
-[- files](/08-funciones)
+[8. Funciones: funciones anónimas, función arrow, ámbito](/08-Funciones/funcionesAmbitoArrow.md)
+[- files](/08-Funciones)
 
-[9. Métodos](/09-metodos/metodos.md)
-[- files](/09-metodos)
+[9. Métodos](/09-Metodos/metodos.md)
+[- files](/09-Metodos)
 
 
 * .toString()
@@ -53,4 +53,5 @@ typeof
 .split()
 .trim()
 
-
+[10. Arrays](/10-Arrays/arrays.md)
+[- files](/10-Arrays)

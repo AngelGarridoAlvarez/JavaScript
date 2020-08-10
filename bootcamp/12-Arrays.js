@@ -1,4 +1,4 @@
-//Arrays: recorrido con for
+//10-Arrays: recorrido con for
 
 let listaCompra = ["Leche desnatada","Leche entera", "Plátanos", "Pan", "Yogures", "Lechuga", "Tomate", "Embutido", "Atún", "Pescado", "Pimientos", "Calabacín", "Cebolla"]
 
