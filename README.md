@@ -33,6 +33,8 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 
 [9. Métodos](/09-metodos/metodos.md)
 [- files](/09-metodos)
+
+
 .toString()
 typeof
 .toUpperCase()
