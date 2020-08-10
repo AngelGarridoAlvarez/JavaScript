@@ -122,6 +122,41 @@ console.log(dato); //false
  console.log(dato);//true
 ```
 
+**replace**: reemplazar un texto por otro
+```jsx
+dato = texto1.replace("puto amo", "crack");
+console.log(dato);//Hello World, voy a ser el crack del JavaScript
+```
+**slice**: separar texto a partir del caracter que le indique (elimina la primera parte)
+
+```jsx
+dato = texto1.slice(26);
+console.log(dato);//puto amo del JavaScript
+```
+**.split("elemento separador")**: recorta el texto según el elemento separador que yo le indique y mete las partes en un array 
+
+```jsx
+dato = texto1.split(" ");//al poner espacio como elemento separador me hará un array compuesto por las palabras del texto
+console.log(dato);
+// [ 'Hello',
+//  'World,',
+//  'voy',
+//  'a',
+//  'ser',
+//  'el',
+//  'crack',
+//  'del',
+//  'JavaScript' ]
+```
+
+**trim**: quita los espacios por delante y por detrás que tenga el string
+```jsx
+var texto3 = "    este texto 3 tiene demasiados espacios     ";
+dato = texto3.trim();
+console.log(texto3);//    este texto 3 tiene demasiados espacios
+console.log(dato);//este texto 3 tiene demasiados espacios
+```
+
 Puedes encontrar más métodos asociados a string en el [siguiente enlace](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String).
 
 
