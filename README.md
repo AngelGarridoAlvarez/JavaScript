@@ -28,8 +28,28 @@ Todo el contenido ha sido modificado para facilitar su comprensión, en muchos c
 
 [7. Ejercicios Básicos](/07-EjerciciosBasicos)
 
-[8. Funciones: funciones anónimas, función arrow, ámbito](/08-funcionesMetodos/funcionesAmbitoArrow.md)
-[- files](/08-funcionesMetodos)
+[8. Funciones: funciones anónimas, función arrow, ámbito](/08-funciones/funcionesAmbitoArrow.md)
+[- files](/08-funciones)
 
 [9. Métodos](/09-metodos/metodos.md)
+.toString()
+typeof
+.toUpperCase()
+.toLowerCase()
+.length
+.concat()
+.indexOf()
+.search()
+.match()
+.subtr()
+.chartAt()
+.startsWith()
+.includes()
+.replace()
+.slice()
+.split()
+.trim()
+
+* [Plantillas](09-metodos/2-plantillas.html)
+
 [- files](/09-metodos)

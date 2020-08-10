@@ -1,0 +1,1 @@
+var texto1 = "Este texto es un ejemplo para probar la fun"

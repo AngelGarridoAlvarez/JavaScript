@@ -20,6 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f10ef6e-777a-4fe1-b6a7-3bc0a9893479" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08-funciones/7-funcionesReemplazo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-metodos/2-plantillas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-metodos/2-plantillas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/1-funciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/1-funciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/1-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/1-funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/2-funcionesDentroFunciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/2-funcionesDentroFunciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/2-funcionesDentroFunciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/2-funcionesDentroFunciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/3-parametrosRestSpread.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/3-parametrosRestSpread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/4-funAnonimasCallback.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/4-funAnonimasCallback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/5-funcionFlecha.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/5-funcionFlecha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/6-ambito.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/6-ambito.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-funcionesMetodos/funcionesAmbitoArrow.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-funciones/funcionesAmbitoArrow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-metodos/1-metodos.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-metodos/1-metodos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-metodos/metodos.md" beforeDir="false" afterPath="$PROJECT_DIR$/09-metodos/metodos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,7 +65,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/bootcamp/Hackathon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodeJS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -81,7 +96,7 @@
       <workItem from="1596525299235" duration="15042000" />
       <workItem from="1596613400651" duration="30359000" />
       <workItem from="1596699677748" duration="23027000" />
-      <workItem from="1596788530966" duration="17683000" />
+      <workItem from="1596788530966" duration="22240000" />
     </task>
     <servers />
   </component>
@@ -105,10 +120,10 @@
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
     <state x="2215" y="310" width="565" height="430" key="#com.intellij.fileTypes.FileTypeChooser/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1596812322957" />
-    <state x="2390" y="231" width="424" height="496" key="FileChooserDialogImpl" timestamp="1596613991940">
+    <state x="2390" y="226" width="424" height="496" key="FileChooserDialogImpl" timestamp="1597041810144">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
-    <state x="2390" y="231" width="424" height="496" key="FileChooserDialogImpl/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1596613991940" />
+    <state x="2390" y="226" width="424" height="496" key="FileChooserDialogImpl/1536.0.1920.1080/3456.0.1920.1080/0.27.1536.837@1536.0.1920.1080" timestamp="1597041810144" />
     <state x="2082" y="266" width="824" height="520" key="IDE.errors.dialog" timestamp="1596554044766">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
