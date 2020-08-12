@@ -1,5 +1,5 @@
 # JavaScript
-En este repositorio voy a repasar los fundamentos de JavaScript con resúmenes teóricos en formato markdown y ejercicios.
+Todos los archivos de este este repositorio son documentos creados por mí mismo en los que repaso los fundamentos de JavaScript con resúmenes teóricos en formato markdown y ejercicios.
 
 Los archivos markdown que se encuentran en él son principalmente resúmenes de la teoría aprendida en el Bootamp que de desarrollador web FullStack que he realizado en [Upgrade-Hub](https://pro.upgrade-hub.com/) combinado con los aprendido en el [Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) que también he cursado.
 
