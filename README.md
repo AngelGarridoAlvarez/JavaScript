@@ -1,7 +1,7 @@
 # JavaScript
-Todos los archivos de este este repositorio son documentos creados por mí mismo en los que repaso los fundamentos de JavaScript con resúmenes teóricos en formato markdown y ejercicios.
+Todos los archivos de este este repositorio han sido completamente escritos por Ángel Garrido Álvarez. En estos documentos repaso los fundamentos de JavaScript con resúmenes teóricos en formato markdown y ejercicios.
 
-Los archivos markdown que se encuentran en él son principalmente resúmenes de la teoría aprendida en el Bootamp que de desarrollador web FullStack que he realizado en [Upgrade-Hub](https://pro.upgrade-hub.com/) combinado con los aprendido en el [Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) que también he cursado.
+Todo su contenido está basado en la teoría aprendida en el Bootamp que de desarrollador web FullStack que he realizado en [Upgrade-Hub](https://pro.upgrade-hub.com/) combinado con los aprendido en el [Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) que también he cursado.
 
 Todo el contenido ha sido modificado para facilitar su comprensión, en muchos casos la información se ha ampliado con otras fuentes como W3Schools, CodeCademy, Wikipedia.
 
