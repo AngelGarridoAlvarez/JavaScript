@@ -3,11 +3,7 @@
 * Son todos los elementos que hay dentro de la página web.
 * El árbol de etiquetas y elementos que componen una página web.
 * Con JS podemos modificar el HTML de una página
-
-
-## 1. getElementBy y querySelector
-
-Podemos seleccionar los diferentes elementos del DOM y manipularlos
+* Podemos seleccionar los diferentes elementos del DOM y manipularlos
 
 Supongamos nuestra página dom.html
 ```html
@@ -41,7 +37,7 @@ Supongamos nuestra página dom.html
 
 Podemos coger y manipular sus elementos desde el nuestro fichero.js:
 
-### 1.1. getElementById
+### 1. getElementById
 
 ```jsx
 let modificador = document.getElementById("miCaja");
@@ -76,7 +72,7 @@ console.log(modificador)
 Este texto lo estoy modificando desde 1-querySelectorGetElementById.js usando innerHTML y getElementById</div>
 */
 ```
-### 1.2. querySelector:
+### 2. querySelector:
 ```jsx
 let modificadorQuery1 = document.querySelector("p");//Para coger etiquetas html
 let modificadorQuery2 = document.querySelector(".pruebaQuery2");//Para coger clases
@@ -86,7 +82,7 @@ modificadorQuery1.style.background="purple";
 modificadorQuery2.style.background="yellow";
 modificadorQuery3.style.background="red";
 ```
-### 1.3. getElementByTagName: Conseguir todos los elementos por su etiqueta
+### 3. getElementByTagName: Conseguir todos los elementos por su etiqueta
 ```jsx
 let sacarP = document.getElementsByTagName('p')
 console.log(sacarP)
@@ -129,7 +125,7 @@ for (let valor in sacarSpan) {
     }
 };
 ```
-### 1.4. getElementByClassName - Conseguir todos los elementos por su clase
+### 4. getElementByClassName - Conseguir todos los elementos por su clase
 
 ```jsx
 let sacarClaseMetidaConJS = document.getElementsByClassName("claseMetidaConJS");
@@ -142,7 +138,7 @@ length: 1
 miCaja: div#miCaja.claseMetidaConJS
  */
 ```
-### 1.5 Crear elementos HTML en el DOM desde archivo.js
+### 5 Crear elementos HTML en el DOM desde archivo.js
 A continuación creamos una función para sacar un elemento html
 
 ```jsx
@@ -158,7 +154,7 @@ createHtml("hr","#mySection2","este texto se ha creado usando appendChild, query
 createHtml("div","#mySection2", "creando div con create element");
 ```
 
-### 1.6 querySelectorAll()
+### 6 querySelectorAll()
 
 Saca todos los elementos que con la etiqueta, clase o id que le pidamos:
 ```jsx
@@ -171,7 +167,7 @@ length: 2
 __proto__: NodeList
  */
 ```
-Ejemplo cambiar todos los span a color naranja
+### Ejemplo cambiar todos los span a color naranja
 ```jsx
 
 let changeColor = (color,element) => {
