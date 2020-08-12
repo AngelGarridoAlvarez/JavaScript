@@ -55,3 +55,11 @@ typeof
 
 [10. Arrays](/10-Arrays/arrays.md)
 [- files](/10-Arrays)
+
+[11. Ejercicio de repaso: Arrays y Funciones](/11-EjercicioArrayFunciones)
+
+### JavaScript en profundidad
+
+
+[12. DOM - Document Object Model](/12-DOM/dom.md)
+[- files](/12-DOM)

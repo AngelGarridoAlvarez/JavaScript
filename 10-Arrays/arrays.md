@@ -208,6 +208,31 @@ console.log(escritorioArray)//[ 'controller', 'lap-top', 'mouse', 'post-it' ]
 escritorioArray.reverse()
 console.log(escritorioArray)//[ 'post-it', 'mouse', 'lap-top', 'controller' ]
 ```
-
+## 5. Recorriendo el array con forIn
 ```jsx
+'use strict'
+
+let escritorio = ["post-it", "lap-top", "controller", "mouse", "pen", "highlighter", "hydrogel"];
+
+for (let elemento in escritorio){
+    console.log(elemento);
+}
+// 0
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+for (let elemento in escritorio){
+    console.log(escritorio[elemento]);
+}
+// post-it
+// lap-top
+// controller
+// mouse
+// pen
+// highlighter
+// hydrogel
+
 ```
