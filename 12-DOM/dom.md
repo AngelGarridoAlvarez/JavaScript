@@ -174,7 +174,7 @@ miDiv.appendChild(div);
 ```
 
 #### 5.2. createElement y createTextNode
-Ya hemos visto su funcionamiento en [5.1](#5.1-appendChild-dice-dónde-meto-código).
+Ya hemos visto su funcionamiento en [5.1](#5.1-appendChild-dice-dónde-meto-el-código).
 Sirven para crear elementos html y nodos de texto respectivamente,
 
 
