@@ -173,6 +173,7 @@ div.appendChild(content);
 miDiv.appendChild(div);
 ```
 
+
 #### 5.2. createElement y createTextNode
 Ya hemos visto su funcionamiento en [5.1 appendChild](#5.1-appendChild:-dice-dónde-meto-el-código).
 Sirven para crear elementos html y nodos de texto respectivamente,
@@ -191,6 +192,26 @@ let createHtml = (element, where, text) => {
 
 createHtml("hr","#mySection2","este texto se ha creado usando appendChild, querySelector y createTextNode");
 createHtml("div","#mySection2", "creando div con create element");
+```
+Aquí vemos como creamos un botón que cambia de página.(Ampliar info en [BOM](../13-BOM/bom.md))
+
+```jsx
+let redirect = () => window.location.href = "https://es.wikipedia.org/wiki/Jerez_de_la_Frontera";
+
+//Para usar redirect lo voy a meter dentro de un botón que creo a continuación:
+let paradiseBtn = document.createElement(`button`);
+
+//Texto del botón
+paradiseBtn.innerHTML = "llévame al paraiso";
+
+//Onclick del botón
+paradiseBtn.onclick = redirect;
+
+//Creo el <p> que contiene al botón
+let pElement2 = document.createElement("p");
+
+pElement2.appendChild(paradiseBtn);
+where.appendChild(pElement2);
 ```
 
 ### 6 querySelectorAll()
