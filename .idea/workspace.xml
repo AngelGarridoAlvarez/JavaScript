@@ -21,40 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3f10ef6e-777a-4fe1-b6a7-3bc0a9893479" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-DOM/1-querySelectorGetElementById.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/1-querySelectorGetElementById.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-DOM/dom.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/dom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-DOM/dom.md" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/dom.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-DOM/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/img/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-BOM/bom.html" beforeDir="false" afterPath="$PROJECT_DIR$/14-BOM/bom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-BOM/bom.js" beforeDir="false" afterPath="$PROJECT_DIR$/14-BOM/bom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-BOM/bom.md" beforeDir="false" afterPath="$PROJECT_DIR$/14-BOM/bom.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/1-objetos y ámbito del this.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Objetos-y-Clases/bootcamp/1-objetos y ámbito del this.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/10-recorrerDOM.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/bootcamp/10-recorrerDOM.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/10-recorrerDOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/bootcamp/10-recorrerDOM.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/11-Json .js" beforeDir="false" afterPath="$PROJECT_DIR$/16-Json/11-Json .js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/12-Arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-Arrays/bootcamp/12-Arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/2-clases.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Objetos-y-Clases/bootcamp/2-clases.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/3-contextoCallBindApply.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Objetos-y-Clases/bootcamp/3-contextoCallBindApply.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/4-arrowFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Funciones/8-arrowFunctionBootcamp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/5 -ifElseSwitch.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-CondicionalesSwitchTernario/bootcamp/5 -ifElseSwitch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/6-ternario.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bootcamp/6-ternario.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/7-buclesFor.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Bucles/bootcamp/7-buclesFor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/8-timeoutIntervalos.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-Eventos/bootcamp/8-timeoutIntervalos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/9-DOMeventos.html" beforeDir="false" afterPath="$PROJECT_DIR$/15-Eventos/bootcamp/9-DOMeventos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/9-DOMeventos.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-Eventos/bootcamp/9-DOMeventos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/JS_Intro__Ejercicios.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S1__Datos_-_Objetos_-_POO.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S2__Scope_-_Clousures_-_Context_-_Hoisting.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S3__Condicionales_-_Bucles.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S4__DOM_-_Eventos_-_Json.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S5__Arrays_en_ES6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S6__Manejando_la_asincrona.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S7__Peticiones.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S8__Tratamiento_de_errores_y_destructuring.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/apuntesPdf/Javascript_S_Intro__Review.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/objetosClasesHerencia.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Objetos-y-Clases/bootcamp/objetosClasesHerencia.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootcamp/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-Eventos/eventos.js" beforeDir="false" afterPath="$PROJECT_DIR$/15-Eventos/eventos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-Eventos/eventos.md" beforeDir="false" afterPath="$PROJECT_DIR$/15-Eventos/eventos.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +84,7 @@
       <workItem from="1596613400651" duration="30359000" />
       <workItem from="1596699677748" duration="23027000" />
       <workItem from="1596788530966" duration="43607000" />
-      <workItem from="1597137020647" duration="50937000" />
+      <workItem from="1597137020647" duration="65287000" />
     </task>
     <servers />
   </component>
