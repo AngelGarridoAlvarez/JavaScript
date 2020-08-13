@@ -139,7 +139,46 @@ miCaja: div#miCaja.claseMetidaConJS
  */
 ```
 ### 5 Crear elementos HTML en el DOM desde archivo.js
-A continuación creamos una función para sacar un elemento html
+
+#### 5.1 appendChild: dice dónde meto el código
+Con appendChild puedo introducir código (etiquetas html, texto, imágenes, etc.) en una parte del html que le indique, o dentro de una etiqueta html que le indique:
+
+[Documento HTML asociado](../13-BOM/bom.html)
+```jsx 
+let width = screen.width;
+let height = screen.height;
+
+document.querySelector("#div1").appendChild(document.createTextNode(width.toString()));
+document.querySelector("#div1").appendChild(document.createTextNode(height.toString()));
+```
+Podemos ordenar este código para facilitar su comprensión:
+```jsx 
+let where = document.querySelector("#div1");
+let what = document.createTextNode(`la altura de la ventana es ${height} y  su ancho es ${width}.`);
+
+where.appendChild(what);
+```
+Si quisiéramos meter el texto dentro de un nuevo elemento html estos serían los pasos:
+
+```jsx 
+//1 dónde
+let miDiv =document.querySelector("#div1");
+//2 elementoHTML que quiero crear para meter el contenido
+let div = document.createElement("div");
+//3 contenido
+let content = document.createTextNode(width.toString());
+//4 meto el contenido dentro del elemento HTML - ElementoHTML.appendChild(contenido)
+div.appendChild(content);
+//5 invoco al elemento en la sección - dónde.appendChild(elementoHTML)
+miDiv.appendChild(div);
+```
+
+#### 5.2. createElement y createTextNode
+Ya hemos visto su funcionamiento en [5.1](#5.1-appendChild-dice-dónde-meto-código).
+Sirven para crear elementos html y nodos de texto respectivamente,
+
+
+A continuación creamos una función para sacar un elemento html y seguimos trabajando con [dom.html](dom.html).
 
 ```jsx
 let createHtml = (element, where, text) => {
