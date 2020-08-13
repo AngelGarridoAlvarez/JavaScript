@@ -60,12 +60,14 @@ typeof
 
 ### JavaScript en profundidad
 
+[12. Objetos](/12-Objetos-y-Clases/Objetos.md)
+[- files](/12-Objetos-y-Clases)
 
-[12. DOM - Document Object Model](/12-DOM/dom.md)
-[- files](/12-DOM)
+[13. DOM - Document Object Model](/13-DOM/dom.md)
+[- files](/13-DOM)
 
-[13. BOM - Browser Object Model](/13-BOM/bom.md)
-[- files](/13-BOM)
+[14. BOM - Browser Object Model](/14-BOM/bom.md)
+[- files](/14-BOM)
 
-[14. Eventos](/14-Eventos/events.md)
-[- files](/14-Eventos)
+[15. Eventos](/15-Eventos/events.md)
+[- files](/15-Eventos)
