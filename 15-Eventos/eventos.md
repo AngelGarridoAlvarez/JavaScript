@@ -9,7 +9,7 @@ Genera eventos cuando pulsamos con el botón izquierdo
 
 * Este evento lo podemos introducir dentro de nuestro código html y mezclamos JavaScript con HTML
 * Aquí hemos optado por crear el código HTML desde javascript
-* Vamos a crear una función usar más ejemplos, pero ojo, esta primera función se puede-debe simplificar con [addEventListener](#addeventlistener.)
+* Vamos a crear una función usar más ejemplos, pero ojo, esta primera función se puede-debe simplificar con [addEventListener](#addeventlistener)
 
 ```jsx
 let btnOnclick = (funcion, textoBoton) => {
@@ -140,8 +140,9 @@ btnAddEventListener("mouseover", ()=>alert("Has pasado por encima del botón"),"
 
 ```jsx
 btnAddEventListener("mouseout", ()=>alert("Has sacado el ratón del botón"),"Botón7: mouseout");
-
+```
 Probamos cambiar color con addEventListener:
+```jsx
 btnAddEventListener("mouseover",
     () => {
         if(document.querySelectorAll("button")[7].style.background == "red"){
