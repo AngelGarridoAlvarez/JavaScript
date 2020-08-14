@@ -126,7 +126,7 @@ btnAddEventListener("dblclick", ()=>alert("Doble click registrado con addEventLi
 
 ### 1.3. mouseOver
 * Te avisa cuando pasas el ratón por encima
-* Se ejecutaría de l siguiente forma: elementoHTML.addEventListener('mouseover',callback)
+* Se ejecutaría de la siguiente forma: elementoHTML.addEventListener('mouseover',callback)
 * Integrado dentro de mi función quedaría de la siguiente forma:
 
 ```jsx
@@ -135,7 +135,7 @@ btnAddEventListener("mouseover", ()=>alert("Has pasado por encima del botón"),"
 
 ### 1.4. mouseOut
 * Te avisa cuando sacas el ratón por encima del teclado.
-* Se ejecutaría de l siguiente forma: elementoHTML.addEventListener('mouseout',callback)
+* Se ejecutaría de la siguiente forma: elementoHTML.addEventListener('mouseout',callback)
 * Integrado dentro de mi función quedaría de la siguiente forma:
 
 ```jsx
@@ -215,4 +215,70 @@ miInput("blur",() => alert("estás haciendo blur en el input, es decir, has hech
 miInput("keydown",() => alert(`cuando presionabas "${event.key}" se ha activado keypress`), "Input3: keydown");
 miInput("keypress",() => alert(`cuando se ha dibujado el caracter "${event.key}" se ha activado keydown`), "Input4: keypress");
 miInput("keyup",() => alert(`cuando has levantado el dedo de la tecla "${event.key}" se ha activado keyup`), "Input5: keyup");
+```
+
+## 4. Evento Load
+Se lanza cuando todas las etiquetas html de mi archivo.js están ya cargadas y sirve para que se cargue todo el código correctamente sin tener que poner script src al final del código html (es decir se puede cargar en el head).
+
+```js
+window.addEventListener('load',()=>{
+/*Dentro del callback metería el código que accede al DOM y a los elementos HTML.*/
+})
+```
+
+## 5. Eventos timers
+
+### 5.1. setInterval(callback, t * 1000)
+Ejecuta mi callback cada t segundos.
+
+Voy a crear un texto con JS e id ="textoTimer1" para poder probar el intervalo
+
+```jsx
+//* creo el lugar donde voy a situar mi texto
+let timer1Place = document.querySelector("body");
+//* creo un contenedor html para el texto
+let pTimer1 = document.createElement("p");
+//* añado la id a p
+pTimer1.id = "textoTimer1"
+//* creo el texto:
+let textoTimer1 = document.createTextNode("Con este texto estamos probando setTimeOut");
+//* Sitúo a <p>
+timer1Place.appendChild(pTimer1);
+//* Meto el texto en la <p>
+pTimer1.appendChild(textoTimer1);
+```
+Ya he creado mi texto en el documento HTML, ahora voy a modificar sus estilos en un intervalo de 3 segundos:
+
+```jsx
+setInterval(() => {
+        if (document.querySelector("#textoTimer1").style.background == "blue") {
+            document.querySelector("#textoTimer1").style.background = "yellow";
+            document.querySelector("#textoTimer1").style.color = "red";
+
+        } else {
+            document.querySelector("#textoTimer1").style.background = "blue";
+            document.querySelector("#textoTimer1").style.color = "white";
+
+        }
+    },
+    1 * 1000)
+```
+
+### 5.2. setTimeout(callback, t*1000)
+Establece una cuenta atrás
+
+* Vamos a crear un botón que nos inicie una cuenta atrás reutilizando el botón creado anteriormente
+* Dentro del setTimeOut indico que se cree un texto dentro de un <p> 2 segundos después de pulsar el botón
+
+```jsx
+btnAddEventListener("click", () => setTimeout(() => {
+    //dentro del setTimeOut indico que se cree un texto dentro de un <p> 2 segundos después de pulsar el botón
+        let setTimeOutPlace = document.querySelector("body");
+        let pSetTimeOut = document.createElement("p");
+        let setTimeOutText = document.createTextNode(`Este texto ha aparecido 2 segundos después de que pulsaras click`);
+        setTimeOutPlace.appendChild(pSetTimeOut);
+        pSetTimeOut.appendChild(setTimeOutText);
+
+    }, 1000 * 1)
+    , "Set time out: algo va a pasar en 2 segundos");
 ```
