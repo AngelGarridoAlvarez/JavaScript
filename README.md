@@ -60,9 +60,9 @@ typeof
 
 ### JavaScript en profundidad
 
-[12. This, Objetos, Clases, Call, Bind y Apply](/12-ThisObjetosClasesCallBindApply)
-* [This, Objetos, Clases, Call, Bind y Apply](/12-ThisObjetosClasesCallBindApply/ThisObjetosClases.md)
+[12. This, Objetos, Clases](/12-ThisObjetosClasesCallBindApply/ThisObjetosClases.md)
 * [Métodos para pasar el contexto: call, bind y apply](/12-ThisObjetosClasesCallBindApply/ContextoCallBindApply.md)
+* [Archivos](/12-ThisObjetosClasesCallBindApply)
 
 [13. DOM - Document Object Model](/13-DOM/dom.md)
 [- files](/13-DOM)
