@@ -51,7 +51,7 @@ console.log(nuevoObjetoJS);
 */
 ```
 
-##¿Se puede incluir una función en un objeto JSON?
+## ¿Se puede incluir una función en un objeto JSON?
 The official answer is: No, it is not valid to define functions in JSON results! The answer could be yes, because "code is data" and "data is code". Even if JSON is used as a language independent data serialization format, a tunneling of "code" through other types will work.
 
 JSON is purely meant to be a data description language. As noted on http://www.json.org, it is a "lightweight data-interchange format." - not a programming language.
