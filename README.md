@@ -60,8 +60,9 @@ typeof
 
 ### JavaScript en profundidad
 
-[12. Objetos](/12-Objetos-y-Clases/Objetos.md)
-[- files](/12-Objetos-y-Clases)
+[12. This, Objetos, Clases, Call, Bind y Apply](/12-ThisObjetosClasesCallBindApply)
+* [This, Objetos, Clases, Call, Bind y Apply](/12-ThisObjetosClasesCallBindApply/ThisObjetosClases.md)
+* [Métodos para pasar el contexto: call, bind y apply](/12-ThisObjetosClasesCallBindApply/ContextoCallBindApply.md)
 
 [13. DOM - Document Object Model](/13-DOM/dom.md)
 [- files](/13-DOM)
@@ -71,5 +72,6 @@ typeof
 
 [15. Eventos](/15-Eventos/events.md)
 [- files](/15-Eventos)
-
 * [ejercicio Formulario](/15-Eventos/ejercicioFormulario)
+
+[16. JSON: JavaScript Object Notation](/16-Json/json.md)
