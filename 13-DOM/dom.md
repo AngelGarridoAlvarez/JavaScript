@@ -212,6 +212,29 @@ let pElement2 = document.createElement("p");
 pElement2.appendChild(paradiseBtn);
 where.appendChild(pElement2);
 ```
+#### 5.3. innerHTML vs createElement/AppendChild
+
+Creo un nuevo div para ver las diferencias de InnerHTML vs CreateElement/AppendChild
+```jsx
+let newLocation = document.querySelector("body");
+let newDiv = document.createElement('div');
+newDiv.textContent = "He creado este texto en newDiv con newDiv.textContent";
+newLocation.appendChild(newDiv);
+```
+Con innerHTML puedo crear el texto y las etiquetas html así como las propiedades, es más limpio.
+
+```jsx
+newDiv.innerHTML += "<p align='center' onclick='alert(`Hello, me has hecho click`)'>Hello</p>"
+```
+
+para hacer los mismo (sin el evento onclick) con createElement tendría que hacer:
+
+```jsx
+let newP = document.createElement("p");
+newP.textContent = "Hello2";
+newDiv.appendChild(newP);
+```
+Usar innerHTML es más limpio, especialmente cuando tratamos con eventos, pero tiene el inconveniente de que reparsea (analiza gramaticalmente) y recrea todos los nodos del DOM dentro de newDiv y es menos eficiente que hacer un appendchild de nuevos elementos
 
 ### 6 querySelectorAll()
 
