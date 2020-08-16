@@ -66,6 +66,8 @@ typeof
 
 [13. DOM - Document Object Model](/13-DOM/dom.md)
 [- files](/13-DOM)
+* getElementById, querySelector, document.createElement, appendChild, innerHTML...
+
 
 [14. BOM - Browser Object Model](/14-BOM/bom.md)
 [- files](/14-BOM)
