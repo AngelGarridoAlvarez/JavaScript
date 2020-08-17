@@ -173,6 +173,52 @@ div.appendChild(content);
 miDiv.appendChild(div);
 ```
 
+##### <u>***append vs appendChild***</u>:
+In cases where you can use .appendChild, you can use .append but not vice versa:
+
+* .append accepts Node objects and DOMStrings while .appendChild accepts only Node objects
+
+* .append does not have a return value while .appendChild returns the appended Node object
+
+* .append allows you to add multiple items while appendChild allows only a single item
+
+
+**append()**
+This method is used to add an element in form of a Node object or a DOMString (basically means text). Here's how that would work.
+```jsx
+// Inserting a Node object
+const parent = document.createElement('div');
+const child = document.createElement('p');
+parent.append(child);
+// This appends the child element to the div element
+// The div would then look like this <div><p></p></div>
+```
+
+```jsx
+// Inserting a DOMString
+const parent = document.createElement('div');
+parent.append('Appending Text');
+// The div would then look like this <div>Appending Text</div>
+```
+**.appendChild()**
+Similar to the .append method, this method is used to elements in the DOM, but in this case, only accepts a Node object.
+```jsx
+// Inserting a Node object
+const parent = document.createElement('div');
+const child = document.createElement('p');
+parent.appendChild(child);
+// This appends the child element to the div element
+// The div would then look like this <div><p></p></div>
+```
+
+```jsx
+// Inserting a DOMString
+const parent = document.createElement('div');
+parent.appendChild('Appending Text');
+// Uncaught TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'
+```
+
+[fuente](https://dev.to/ibn_abubakre/append-vs-appendchild-a4m)
 
 #### 5.2. createElement y createTextNode
 Ya hemos visto su funcionamiento en [5.1 appendChild](#5.1-appendChild:-dice-dónde-meto-el-código).
@@ -225,6 +271,7 @@ Con innerHTML puedo crear el texto y las etiquetas html así como las propiedade
 
 ```jsx
 newDiv.innerHTML += "<p align='center' onclick='alert(`Hello, me has hecho click`)'>Hello</p>"
+//Al poner += en lugar de sustituir el contenido, añadimos contenido
 ```
 
 para hacer los mismo (sin el evento onclick) con createElement tendría que hacer:

@@ -9,30 +9,30 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 
 ### Repaso Fundamentos JavaScript
 [1. Hello World](/01-HelloWorld/1helloWorld.md)
-[- files](/01-HelloWorld)
+[- archivos](/01-HelloWorld)
 
 [2. Variables](/02-Variables/2.variables_modo_estricto.md)
-[- files](/02-Variables)
+[- archivos](/02-Variables)
 
 [3. Tipos de datos](/03-tiposDatos/tiposDatos.md)
-[- files](/03-tiposDatos)
+[- archivos](/03-tiposDatos)
 
 [4. Condicionales: if else, switch, ternario](/04-CondicionalesSwitchTernario/ifElseSwitchTernario.md)
-[- files](/04-CondicionalesSwitchTernario)
+[- archivos](/04-CondicionalesSwitchTernario)
 
 [5. Bucles, utilizar debugger](/05-Bucles/Bucles.md)
-[- files](/05-Bucles)
+[- archivos](/05-Bucles)
 
 [6. Alertas, ventanas, ingreso de datos](/06-AlertasVentanasIngresoDatos/ventanas.md)
-[- files](/06-AlertasVentanasIngresoDatos)
+[- archivos](/06-AlertasVentanasIngresoDatos)
 
 [7. Ejercicios Básicos](/07-EjerciciosBasicos)
 
 [8. Funciones: funciones anónimas, función arrow, ámbito](/08-Funciones/funcionesAmbitoArrow.md)
-[- files](/08-Funciones)
+[- archivos](/08-Funciones)
 
 [9. Métodos](/09-Metodos/metodos.md)
-[- files](/09-Metodos)
+[- archivos](/09-Metodos)
 
 
 * .toString()
@@ -54,7 +54,7 @@ typeof
 .trim()
 
 [10. Arrays](/10-Arrays/arrays.md)
-[- files](/10-Arrays)
+[- archivos](/10-Arrays)
 
 [11. Ejercicio de repaso: Arrays y Funciones](/11-EjercicioArrayFunciones)
 
@@ -65,15 +65,21 @@ typeof
 * [Archivos](/12-ThisObjetosClasesCallBindApply)
 
 [13. DOM - Document Object Model](/13-DOM/dom.md)
-[- files](/13-DOM)
+[- archivos](/13-DOM)
 * getElementById, querySelector, document.createElement, appendChild, innerHTML...
 
 
 [14. BOM - Browser Object Model](/14-BOM/bom.md)
-[- files](/14-BOM)
+[- archivos](/14-BOM)
 
 [15. Eventos](/15-Eventos/eventos.md)
-[- files](/15-Eventos)
+[- archivos](/15-Eventos)
 * [ejercicio Formulario](/15-Eventos/ejercicioFormulario)
 
 [16. JSON: JavaScript Object Notation](/16-Json/json.md)
+[- archivos](/16-Json)
+
+
+[17. localStorage: guardar información en la memoria del navegador](/17-LocalStorage/localStorage.md)
+[- archivos](/17-LocalStorage)
+* [ejercicio: formulario añadir y eliminar películas con localStorage](17-LocalStorage/ejercicio)
