@@ -68,3 +68,41 @@ do {
     years--;
 } while (years >= 25);
 ```
+## Bucles con objetos y arrays: ForEach vs .map
+
+* .map() nos evita el uso de bucles y nos devuelve un array nuevo.
+
+* El método map() crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos.
+
+* array.map( x => x*2) me devuelve un nuevo array donde cada elemento "x" del array anterior es multiplicado x 2
+```jsx
+var cars2 = [
+    {brand: "Rover", name: "420 hdi", owner: "Mamá"},
+    {brand: "Audi", name: "A4 gasolina atmosférico", owner: "Mamá"},
+    {brand: "citröen", name: "BX", owner: "Mamá"},
+    {brand: "citröen", name: "Xantia", owner: "Papá"},
+    {brand: "Land Rover", name: "Discovery", owner: "Papá"},
+    {brand: "Mercedes", name: "serie 5", owner: "Papá"},
+]
+
+//conseguir las marcas con forEach():
+
+var cars2Brands =[];
+cars2.forEach(function (cars2) {
+    cars2Brands.push(cars2.brand)
+});
+
+console.log(cars2Brands);
+
+//conseguir el owner con .map()
+
+const cars2Owners = cars2.map(propietario => propietario.owner);
+
+console.log(cars2Owners);
+
+//creando un array de objetos con .map()
+cars2ownerBrand = cars2.map(carOwner =>  ({car: carOwner.name, owner: carOwner.owner}));
+
+console.log(cars2ownerBrand);
+
+```

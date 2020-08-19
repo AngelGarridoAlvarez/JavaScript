@@ -121,3 +121,35 @@ var car1Array = Object.values(car1);
 console.log(car1Array);
 car1.arranca();//trasteamos para recordar como se llama a una función dentro de un objeto
 car1Array[5].call(car1);//trasteamos, sabemos que la posición 5 del array es una función, pero para poder llamarla fuera del objeto al que pertenece tenemos que usar .Call
+
+//ForEach vs .map
+//.map() nos evita el uso de bucles y nos devuelve un array nuevo
+
+var cars2 = [
+    {brand: "Rover", name: "420 hdi", owner: "Mamá"},
+    {brand: "Audi", name: "A4 gasolina atmosférico", owner: "Mamá"},
+    {brand: "citröen", name: "BX", owner: "Mamá"},
+    {brand: "citröen", name: "Xantia", owner: "Papá"},
+    {brand: "Land Rover", name: "Discovery", owner: "Papá"},
+    {brand: "Mercedes", name: "serie 5", owner: "Papá"},
+]
+
+//conseguir las marcas con forEach():
+
+var cars2Brands =[];
+cars2.forEach(function (cars2) {
+    cars2Brands.push(cars2.brand)
+});
+
+console.log(cars2Brands);
+
+//conseguir el owner con .map()
+
+const cars2Owners = cars2.map(propietario => propietario.owner);
+
+console.log(cars2Owners);
+
+//creando un array de objetos con .map()
+cars2ownerBrand = cars2.map(carOwner =>  ({car: carOwner.name, owner: carOwner.owner}));
+
+console.log(cars2ownerBrand);

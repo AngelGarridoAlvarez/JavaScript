@@ -83,3 +83,10 @@ typeof
 [17. localStorage: guardar información en la memoria del navegador](/17-LocalStorage/localStorage.md)
 [- archivos](/17-LocalStorage)
 * [ejercicio: formulario añadir y eliminar películas con localStorage](17-LocalStorage/ejercicio)
+
+[18. Peticiones Asíncronas - fetch, promesas, captura de errores, try catch](/18-PeticionesAsíncronasCapturaErrores/peticionesAsincronas.md) 
+[- archivos](/18-PeticionesAsíncronasCapturaErrores)
+* [ejercicio: jugando con APIs](/18-PeticionesAsíncronasCapturaErrores/jugandoConApis)
+
+[19. Date() y Math() - métodos básicos](19-DateMath/dateMath.md)
+[- archivos](/19-DateMath)
