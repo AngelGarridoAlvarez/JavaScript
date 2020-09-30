@@ -92,4 +92,7 @@ typeof
 [- archivos](/19-DateMath)
 
 [20. TypeScript](20-TypeScript/TypeScript.md)
-[- archivos](/TypeScript)
+[- archivos](/20-TypeScript)
+
+[21. Programación Orientada a Objetos](21-POO/POO.md)
+[- archivos](/21-POO)
