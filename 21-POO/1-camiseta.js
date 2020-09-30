@@ -1,7 +1,8 @@
-//# Clases
+//# POO
+// # 1. Clases
 // * Es un "molde" con el que crear objetos similares
 // Las clases se componen de Propiedades y Métodos
-//Usamos "tsc -w .\camiseta.ts" para compilar de .ts a .js
+//Usamos "tsc -w .\1-camiseta.ts" para compilar de .ts a .js
 var Camiseta = /** @class */ (function () {
     function Camiseta() {
         //Propiedades:
@@ -25,13 +26,12 @@ camiseta.nuevaPropiedad = "estilo cutre"
 Al usar typeScript no me deja añadir propiedades que no estén predefinidas en la clase, así que el compilador me da error:
 
 
-camiseta.ts:17:10 - error TS2339: Property 'nuevaPropiedad' does not exist on type 'Camiseta'.
 
 17 camiseta.nuevaPropiedad = "estilo cutre"
 
 camiseta.precio = 29.99;
 Al ser el precio una propiedad privada, me va a dar error al intentar cambiarlo.
-camiseta.ts:23:10 - error TS2341: Property 'precio' is private and only accessible within class 'Camiseta'.
+1-camiseta.ts:23:10 - error TS2341: Property 'precio' is private and only accessible within class 'Camiseta'.
 
 23 camiseta.precio = 29.99;
 */
@@ -61,7 +61,7 @@ Camiseta {
 }
  */
 console.log(adidas.getPrecio()); // 99.99€
-//## Constructor
+//## 2. Constructor
 // * es un método que sirve para dar valor inicial a las propiedades
 var Camiseta2 = /** @class */ (function () {
     //Métodos
