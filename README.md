@@ -90,3 +90,6 @@ typeof
 
 [19. Date() y Math() - métodos básicos](19-DateMath/dateMath.md)
 [- archivos](/19-DateMath)
+
+[20. TypeScript](20-TypeScript/TypeScript.md)
+[- archivos](/TypeScript)
