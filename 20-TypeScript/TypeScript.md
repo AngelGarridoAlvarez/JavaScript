@@ -1,4 +1,4 @@
-#Typescript
+# Typescript
  * Es un superset de JS
  * Tipado fuerte: defines las variables y el tipo de dato
  * Lenguaje interpretado que se transpila a JS
@@ -32,9 +32,9 @@ En la consola:
 </body>
 </html>
 ```
- #Tipos de datos en TypeScript:
+ # Tipos de datos en TypeScript:
 
-##1.string
+## 1.string
 
 En el compilador: tsc -w .\03.tipos-datos.ts
 
@@ -53,17 +53,17 @@ Al trancriptar a js me da el siguiente error:
 
 11 cadena = 5;
 
-##2. number
+## 2. number
 ```jsx
 let numero: number = 12;
 ```
 
-##3. boolean
+## 3. boolean
 ```jsx
 let booleano: boolean = true;
 ```
 
-##4. any
+## 4. any
 ```jsx
 let cualquiera: any = "hola";
 cualquiera = 5;
@@ -71,7 +71,7 @@ cualquiera = 5;
 console.log(cadena, numero, booleano, cualquiera) //Ángel Garrido Álvarez 12 true 5
 
 ```
-##5. array
+## 5. array
 ```jsx
 var lenguajes: Array<string> = ["JavaScript", "PHP", "CSS", "HTML"];
 
@@ -80,14 +80,14 @@ let years: number[] = [22, 33, 44];
 let cualquierArray: any[] = [12,"hola"];
 ```
 
-##6. Variables con múltiples tipos de datos específicos:
+## 6. Variables con múltiples tipos de datos específicos:
 ```jsx
 let stringNumber: string | number = "12";
 stringNumber = "ahora soy un string";
 
 console.log(stringNumber);//ahora soy un string
 ```
-##7. Crear tipos de datos personalizados:
+## 7. Crear tipos de datos personalizados:
 ```jsx
 type stringOrNumbers = string | number;
 
@@ -97,7 +97,7 @@ console.log(identificacion); //Ahora identificación es un string
 identificacion = 22;
 console.log(identificacion); //22
 ```
-##8. let vs var ten TypeScript:
+## 8. let vs var ten TypeScript:
 ```jsx
 var numero1= 10;
 var numero2= 12;
@@ -112,7 +112,7 @@ if (numero1 == 10){
 console.log (`numero1 es ${numero1} y numero2 es ${numero2}`);
 //numero1 es 10 y numero2 es 55
 ```
-##9. Funciones y tipado:
+## 9. Funciones y tipado:
 ```jsx
 function getNumero(numero = 12): string{
     return "el numero es " + numero;
