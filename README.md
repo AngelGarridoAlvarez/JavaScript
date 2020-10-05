@@ -96,8 +96,4 @@ typeof
 
 [21. Programación Orientada a Objetos con TypeScript](21-POO-TypeScript/POO.md)
 [- archivos](/21-POO)
- * Clases
- * Constructor
- * Interfaces
- * Herencia
- * Decoradores
+ * Clases, Constructor, Interfaces, Herencia, Decoradores.
