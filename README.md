@@ -94,5 +94,10 @@ typeof
 [20. TypeScript](20-TypeScript/TypeScript.md)
 [- archivos](/20-TypeScript)
 
-[21. Programación Orientada a Objetos](21-POO/POO.md)
+[21. Programación Orientada a Objetos con TypeScript](21-POO-TypeScript/POO.md)
 [- archivos](/21-POO)
+ * Clases
+ * Constructor
+ * Interfaces
+ * Herencia
+ * Decoradores
