@@ -259,11 +259,3 @@ let sudaderaNintendo = new SudaderaLogo('Red','Mario','Adidas');
 console.log(sudaderaNintendo);
 sudaderaNintendo.estampacion();//camiseta estampada con el logo de Nintendo.
 ```
-
-```jsx
-
-```
-
-```jsx
-
-```
